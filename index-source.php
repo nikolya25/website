@@ -1,13 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Czytaj książki Online</title>
+    	<meta charset="UTF-8">
+	<title>Czytaj książki Online</title>
 </head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+
 <body>
     <header>
     </header>
     <section id="introduction">
-        <div>
+        <div class="container text-center">
             <h1>Czytaj Książki online</h1>
             <p>
                 Skorzystaj z naszych usług, wypożyczaj i czytaj książki online.
@@ -19,7 +26,7 @@
     <section id="press">
         <div>
             <h1 class="">Mówią o nas</h1>
-            <div>
+            <div class="container text-center">
                 <div>
                   <h2>Onet.pl</h2>
                   <img src="http://www.kupujnasze.pl/wp-content/uploads/2010/03/logo_onetpl_kropka_odstep.jpg"/>
